@@ -1,1 +1,3 @@
-
+public class tariq {
+    // hello dev-tariq...
+}
